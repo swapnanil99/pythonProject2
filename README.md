@@ -44,7 +44,7 @@ Follow these steps to get FunBot up and running:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/FunBot.git
+git clone https://github.com/swapnanil99/py-FunBot_Personal_Voice_Assistant.git
 cd FunBot
 ```
 2. **Install Required Python Packages**
